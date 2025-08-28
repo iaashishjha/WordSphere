@@ -1,0 +1,2 @@
+# WordSphere
+Your Portable Dictionary
